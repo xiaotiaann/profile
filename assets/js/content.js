@@ -3,28 +3,12 @@
 // completeApps data
 const completeAppsData = [
     {
-      title: "Proyek 1",
-      description: "Deskripsi proyek 1.",
-      stack: "HTML CSS JAVASCRIPT",
-      image: "./assets/img/gmb1.png",
+      title: "Apps Title",
+      description: "Apps Description",
+      stack: "TECH STACK",
+      image: "./assets/img/comingsoon.png",
       link1: "https://link-to-project1.com",
       link2: "https://link-to-project1.com",
-    },
-    {
-      title: "Proyek 2",
-      description: "Deskripsi proyek 2.",
-      stack: "HTML CSS JAVASCRIPT",
-      image: "./assets/img/gmb2.png",
-      link1: "https://link-to-project2.com",
-      link2: "https://link-to-project2.com",
-    },
-    {
-      title: "Proyek 3",
-      description: "Deskripsi proyek 3.",
-      stack: "HTML CSS JAVASCRIPT",
-      image: "./assets/img/gmb2.png",
-      link1: "https://link-to-project2.com",
-      link2: "https://link-to-project2.com",
     },
     // Tambahkan proyek lainnya seperti di atas
   ];
