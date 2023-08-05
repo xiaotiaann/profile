@@ -57,25 +57,32 @@ const completeAppsData = [
 // smallProjects data
 const smallProjectsData = [
     {
-      title: "Proyek 1",
-      description: "Deskripsi proyek 1.",
+      title: "Hoverable Sidebar Menu",
+      description: "Hoverable Sidebar Menu using HTML CSS and JavaScript.",
       stack: "HTML CSS JAVASCRIPT",
-      link1: "https://link-to-project1.com",
-      link2: "https://link-to-project1.com",
+      link1: "https://github.com/xiaotiaann/Hoverable-Sidebar-Menu.git",
+      link2: "https://youtube.com/shorts/2CmYomNWKbg?feature=share",
     },
     {
-      title: "Proyek 2",
-      description: "Deskripsi proyek 2.",
+      title: "Navigation Bar with Indicator",
+      description: "Navigation Bar with Indicator using HTML CSS and JavaScript.",
       stack: "HTML CSS JAVASCRIPT",
-      link1: "https://link-to-project2.com",
-      link2: "https://link-to-project2.com",
+      link1: "https://github.com/xiaotiaann/Navigation-Bar-with-Indicator.git",
+      link2: "https://youtube.com/shorts/LLpJvWk0CJA?feature=share",
     },
     {
-      title: "Proyek 3",
-      description: "Deskripsi proyek 3.",
+      title: "QR Code Generator",
+      description: "QR Code Generator using HTML CSS and JavaScript.",
       stack: "HTML CSS JAVASCRIPT",
-      link1: "https://link-to-project2.com",
-      link2: "https://link-to-project2.com",
+      link1: "https://github.com/xiaotiaann/QR-Code-Generator.git",
+      link2: "https://youtube.com/shorts/7JLe_VordTM?feature=share",
+    },
+    {
+      title: "Drag and Drop Image",
+      description: "Drag and Drop Image using HTML CSS and JavaScript.",
+      stack: "HTML CSS JAVASCRIPT",
+      link1: "https://github.com/xiaotiaann/Drag-and-Drop.git",
+      link2: "https://youtube.com/shorts/PqKkMfd9FsQ?feature=share",
     },
     // Tambahkan proyek lainnya seperti di atas
   ];
