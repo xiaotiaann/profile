@@ -291,6 +291,11 @@ hr {
     color: var(--grey-color);
     padding: 8px;
   }
+
+  /* lebar maksimal atribut  teks pada card */
+  .project p, .project h3 {
+    max-width: 420px;
+  }
   
   /* Gaya untuk gambar proyek */
   .project img {
@@ -580,6 +585,10 @@ hr {
   .project img {
     width: 400px;
   }
+
+  .project p, .project h3 {
+    max-width: 385px;
+  }
 }
 
 /* Tampilan untuk layar lebih kecil dari 1400px */
@@ -587,12 +596,19 @@ hr {
   .project img {
     width: 330px;
   }
+
+  .project p, .project h3 {
+    max-width: 315px;
+  }
 }
 
 /* Tampilan untuk layar lebih kecil dari 1300px */
 @media (max-width: 1300px) {
   .project img {
     width: 280px;
+  }
+  .project p, .project h3 {
+    max-width: 265px;
   }
 }
 
@@ -715,6 +731,10 @@ hr {
 
   .project img {
     width: 320px;
+  }
+
+  .project p, .project h3 {
+    max-width: 305px;
   }
 
   .skills {
