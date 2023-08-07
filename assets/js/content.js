@@ -104,7 +104,7 @@ const skillsData = [
     },
     {
       category: "Databases",
-      list: "MongoDB MySQL",
+      list: "MongoDB-(learned) MySQL-(learned)",
     },
     {
       category: "Tools",
@@ -112,11 +112,11 @@ const skillsData = [
     },
     {
       category: "Frameworks",
-      list: "React Next.js Expres.js",
+      list: "React Next.js Expres.js-(learned)",
     },
     {
       category: "Other",
-      list: "HTML CSS EJS",
+      list: "HTML CSS",
     },
     
     // Tambahkan skill lainnya seperti di atas
